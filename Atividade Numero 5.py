@@ -1,3 +1,4 @@
+
 import os
 from dataclasses import dataclass
 
@@ -64,5 +65,4 @@ Código  |  Descrição
         else:
             print("Opção inválida. Tente novamente.")
 
-if __name__ == "__main__":
-    main()
+main()
